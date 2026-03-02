@@ -21,12 +21,5 @@ Achieve real-time edge AI performance
 
 # System Architecture
 
-Camera Module
-↓
-Image Preprocessing
-↓
-CNN Model (Trained)
-↓
-TensorRT Optimization
-↓
-Real-Time Steering Output
+<img width="1536" height="1024" alt="ChatGPT Image Mar 2, 2026, 09_11_10 PM" src="https://github.com/user-attachments/assets/a5626cf3-c338-4a94-9ead-08af508ea13a" />
+
